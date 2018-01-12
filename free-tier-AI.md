@@ -71,6 +71,7 @@ A collection of deep learning and data science tools for Apache Spark. Includes 
 
 ### [IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)
 Up to 500 devices, with a limit of 8,000 messages per day.
+Mbed OS is Apache 2/free and made for IoT. https://github.com/ARMmbed
 
 ### [Notification Hubs](https://azure.microsoft.com/en-us/services/notification-hubs/)
 1 million pushes for 500 active devices per month.
